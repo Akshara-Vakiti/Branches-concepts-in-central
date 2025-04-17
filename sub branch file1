@@ -1,1 +1,2 @@
 git add is the command used for adding a file into tracking area or untracking areas.
+git init is used to convert folder into repository.
